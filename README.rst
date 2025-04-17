@@ -23,6 +23,11 @@
 pupil-apriltags: Python bindings for the apriltags3 library
 ===========================================================
 
+# NOTE: THIS FORK IS A WORKAROUND FOR THE PUPIL LABS APRILTAG
+It has only two line changes from the additional package. however, it requires manually adding the pthreadvc2.dll to /Windows/System32
+
+
+
 These are Python bindings for the
 `Apriltags3 <https://github.com/AprilRobotics/apriltags>`__ library
 developed by `AprilRobotics <https://april.eecs.umich.edu/>`__,
