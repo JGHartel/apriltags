@@ -25,7 +25,7 @@ pupil-apriltags: Python bindings for the apriltags3 library
 
 # NOTE: THIS FORK IS A WORKAROUND FOR THE PUPIL LABS APRILTAG
 It has only two line changes from the additional package. however, it requires manually adding the pthreadvc2.dll to /Windows/System32
-
+The dll file can be found in this very directory
 
 
 These are Python bindings for the
